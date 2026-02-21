@@ -1,0 +1,107 @@
+parent_id,parent_name,sub_id,sub_name,fund_type,fund_name
+equity,Domestic Equity,flexicap,FlexiCap,recommended,Parag Parikh Flexi Cap Fund 
+equity,Domestic Equity,flexicap,FlexiCap,recommended,HDFC Flexi Cap Fund 
+equity,Domestic Equity,flexicap,FlexiCap,all,Axis Flexi Cap Fund 
+equity,Domestic Equity,flexicap,FlexiCap,all,Canara Robeco Flexi Cap Fund
+equity,Domestic Equity,flexicap,FlexiCap,all,DSP Flexi Cap Fund
+equity,Domestic Equity,flexicap,FlexiCap,all,Franklin India Flexi Cap Fund
+equity,Domestic Equity,flexicap,FlexiCap,all,Kotak Flexi Cap Fund
+equity,Domestic Equity,flexicap,FlexiCap,all,Mirae Asset Flexi Cap Fund
+equity,Domestic Equity,flexicap,FlexiCap,all,SBI Flexi Cap Fund
+equity,Domestic Equity,flexicap,FlexiCap,all,UTI Flexi Cap Fund
+equity,Domestic Equity,focussed,Focussed,recommended,HDFC Focused Fund
+equity,Domestic Equity,focussed,Focussed,recommended,ICICI Prudential Focused Equity Fund
+equity,Domestic Equity,focussed,Focussed,all,Axis Focused 25 Fund
+equity,Domestic Equity,focussed,Focussed,all,DSP Focus Fund
+equity,Domestic Equity,focussed,Focussed,all,Franklin India Focused Equity Fund
+equity,Domestic Equity,focussed,Focussed,all,Mirae Asset Focused Fund
+equity,Domestic Equity,focussed,Focussed,all,Nippon India Focused Equity Fund
+equity,Domestic Equity,focussed,Focussed,all,SBI Focused Equity Fund
+equity,Domestic Equity,focussed,Focussed,all,Sundaram Focused Fund
+equity,Domestic Equity,midcap,MidCap,recommended,Invesco India Mid Cap Fund
+equity,Domestic Equity,midcap,MidCap,recommended,HDFC Mid Cap Fund
+equity,Domestic Equity,midcap,MidCap,all,Axis Midcap Fund
+equity,Domestic Equity,midcap,MidCap,all,Motilal Oswal Midcap Fund
+equity,Domestic Equity,midcap,MidCap,all,Edelweiss Mid Cap Fund
+equity,Domestic Equity,midcap,MidCap,all,Franklin India Prima Fund
+equity,Domestic Equity,midcap,MidCap,all,Kotak Emerging Equity Fund
+equity,Domestic Equity,midcap,MidCap,all,Mirae Asset Midcap Fund
+equity,Domestic Equity,midcap,MidCap,all,Nippon India Growth Fund
+equity,Domestic Equity,midcap,MidCap,all,PGIM India Midcap Opportunities Fund
+equity,Domestic Equity,midcap,MidCap,all,SBI Magnum Midcap Fund
+equity,Domestic Equity,smallcap,SmallCap,recommended,Invesco India Smallcap Fund
+equity,Domestic Equity,smallcap,SmallCap,recommended,Bandhan Small Cap Fund
+equity,Domestic Equity,smallcap,SmallCap,recommended,Mirae Small Cap Fund
+equity,Domestic Equity,smallcap,SmallCap,all,Axis Small Cap Fund
+equity,Domestic Equity,smallcap,SmallCap,all,Canara Robeco Small Cap Fund
+equity,Domestic Equity,smallcap,SmallCap,all,DSP Small Cap Fund
+equity,Domestic Equity,smallcap,SmallCap,all,HDFC Small Cap Fund
+equity,Domestic Equity,smallcap,SmallCap,all,Kotak Small Cap Fund
+equity,Domestic Equity,smallcap,SmallCap,all,SBI Small Cap Fund
+equity,Domestic Equity,smallcap,SmallCap,all,Nippon India Small Cap Fund
+equity,Domestic Equity,smallcap,SmallCap,all,Quant Small Cap Fund
+equity,Domestic Equity,smallcap,SmallCap,all,Tata Small Cap Fund
+equity,Domestic Equity,others_eq,Others,recommended,ICICI Prudential Dividend Yield Equity Fund
+equity,Domestic Equity,others_eq,Others,recommended,ICICI Prudential Thematic Advantage Fund (FOF)
+equity,Domestic Equity,others_eq,Others,all,Aditya Birla Sun Life Dividend Yield Fund
+equity,Domestic Equity,others_eq,Others,all,SBI Dividend Yield Fund
+equity,Domestic Equity,others_eq,Others,all,UTI Dividend Yield Fund
+equity,Domestic Equity,others_eq,Others,all,HDFC Dividend Yield Fund
+equity,Domestic Equity,others_eq,Others,all,Templeton India Equity Income Fund
+equity,Domestic Equity,momentum,Momentum (Stocks Portfolio),,
+equity,Domestic Equity,longterm,Long-term (Stocks Portfolio),,
+intl,International Equity,us,US,recommended,ICICI Prudential US Bluechip Equity 
+intl,International Equity,us,US,recommended,Motilal Oswal S&P 500 Index Fund
+intl,International Equity,us,US,all,DSP US Flexible Equity Fund
+intl,International Equity,us,US,all,Franklin India Feeder Franklin US Opportunities Fund
+intl,International Equity,us,US,all,Kotak US Equity Fund
+intl,International Equity,us,US,all,Mirae Asset NYSE FANG+ ETF FoF
+intl,International Equity,us,US,all,Nippon India US Equity Opportunities Fund
+intl,International Equity,china,China,recommended,Mirae Asset Hang Seng TECH ETF FoF
+intl,International Equity,china,China,recommended,Edelweiss Greater China Equity Off-shore Fund
+intl,International Equity,china,China,all,DSP Global Innovation Fund of Fund
+intl,International Equity,china,China,all,PGIM India Global Equity Opportunities Fund
+intl,International Equity,china,China,all,Nippon India Taiwan Equity Fund
+debt,Debt,icici_bond,ICICI Prudential All Seasons Bond Fund ,,
+debt,Debt,liquid,Liquid Fund,recommended,ICICI Prudential Liquid Fund
+debt,Debt,liquid,Liquid Fund,recommended,HDFC Liquid Fund
+debt,Debt,liquid,Liquid Fund,all,Aditya Birla Sun Life Liquid Fund
+debt,Debt,liquid,Liquid Fund,all,Axis Liquid Fund
+debt,Debt,liquid,Liquid Fund,all,Kotak Liquid Fund
+debt,Debt,liquid,Liquid Fund,all,Nippon India Liquid Fund
+debt,Debt,liquid,Liquid Fund,all,SBI Liquid Fund
+debt,Debt,liquid,Liquid Fund,all,UTI Liquid Cash Plan
+debt,Debt,tmf,Target Maturity Funds,recommended,HDFC Nifty SDL Plus G-Sec Jun 2027 40:60 Index Fund
+debt,Debt,tmf,Target Maturity Funds,recommended,ICICI Prudential Nifty G-Sec Jun 2027 Index Fund
+debt,Debt,tmf,Target Maturity Funds,all,Axis CRISIL SDL 2027 Index Fund
+debt,Debt,tmf,Target Maturity Funds,all,Bandhan CRISIL-IBX Gilt Index June 2027 Fund
+debt,Debt,tmf,Target Maturity Funds,all,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund
+debt,Debt,tmf,Target Maturity Funds,all,Mirae Asset Nifty SDL Jun 2027 Index Fund
+debt,Debt,tmf,Target Maturity Funds,all,Nippon India Nifty SDL Plus G-Sec Jun 2028 Maturity 60:40 Index Fund
+debt,Debt,arbitrage,Arbitrage Fund,recommended,Tata Arbitrage Fund
+debt,Debt,arbitrage,Arbitrage Fund,all,Aditya Birla Sun Life Arbitrage Fund
+debt,Debt,arbitrage,Arbitrage Fund,all,Axis Arbitrage Fund
+debt,Debt,arbitrage,Arbitrage Fund,all,HDFC Arbitrage Fund
+debt,Debt,arbitrage,Arbitrage Fund,all,ICICI Prudential Equity Arbitrage Fund
+debt,Debt,arbitrage,Arbitrage Fund,all,Kotak Equity Arbitrage Fund
+debt,Debt,arbitrage,Arbitrage Fund,all,Nippon India Arbitrage Fund
+debt,Debt,arbitrage,Arbitrage Fund,all,SBI Arbitrage Opportunities Fund
+debt,Debt,sweep,Sweep-in Fixed Deposits,all,
+reits,REITs,embassy,Embassy Office Parks REIT,,
+reits,REITs,biret,Brookfield India Real Estate Trust,,
+reits,REITs,mindspace,Mindspace Business Parks REIT,,
+reits,REITs,krt,Knowledge REIT ,,
+reits,REITs,nxst,Nexus Select Trust REIT Units,,
+commodities,Commodities,gold_silver,Gold & Silver ETF FoF,recommended,Motilal Oswal Gold and Silver ETFs FoF
+commodities,Commodities,gold,Gold ETF,recommended,Nippon India ETF Gold BeES
+commodities,Commodities,gold,Gold ETF,all,ICICI Prudential Gold ETF
+commodities,Commodities,gold,Gold ETF,all,Zerodha Gold ETF
+commodities,Commodities,silver,Silver ETF,recommended,Nippon India Silver ETF
+commodities,Commodities,silver,Silver ETF,all,ICICI Prudential Silver ETF
+commodities,Commodities,silver,Silver ETF,all,Groww Silver ETF
+alternatives,Alternatives,bitcoin,Bitcoin,recommended,CoinDCX Bitcoin
+alternatives,Alternatives,bitcoin,Bitcoin,all,WazirX Bitcoin
+alternatives,Alternatives,bitcoin,Bitcoin,all,Coinbase Bitcoin
+alternatives,Alternatives,pe,Private Equity,recommended,
+others_c,Others (Custom),cash,Cash,custom,
+others_c,Others (Custom),custom2,Other Investments,custom,
